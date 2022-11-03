@@ -1,0 +1,142 @@
+body {
+    background-color: #dfb5bc78;
+    margin: 0;
+  }
+  
+  .first-img {
+    background: url("../images/couple.jpg");
+    background-position: center;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    padding: 200px;
+  }
+  
+  .first-img h1 {
+    font-size: 60px;
+  }
+  
+  .nav-bar {
+    background-color: #f6eded8f;
+    padding: 20px;
+    position: fixed;
+    display: flex;
+    width: 100%;
+    bottom: 0;
+    columns: 4;
+  }
+  
+  .nav a {
+    color: #000;
+    text-decoration: none;
+    padding: 0 150px;
+  }
+  
+  .names {
+    text-align: center;
+    font-size: 38px;
+    color: #806f6f;
+    margin: 60px 0;
+  }
+  
+  .second-img {
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+  }
+  
+  .wed-info {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    line-height: 1em;
+    font-size: 20px;
+    color: #806f6f;
+    font-style: italic;
+  }
+  
+  .tin {
+    border-radius: 5px;
+  }
+  
+  .wed-det {
+    text-align: center;
+  }
+  
+  .det {
+    text-align: center;
+    margin: 70px 2px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    font-size: 20px;
+  }
+  
+  .wed-det button:hover,
+  .vp button:hover {
+    background-color: #5a5a5a;
+  }
+  
+  .third-img {
+    background: url("../images/rose.jpg");
+    background-position: center;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    padding: 200px;
+  }
+  
+  .third-img h1 {
+    font-size: 80px;
+  }
+  
+  .third-img h2 {
+    font-size: 30px;
+  }
+  
+  .fourth-img {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .loc {
+    columns: 2;
+    text-align: center;
+    color: #000;
+  }
+  
+  .loc h3 {
+    font-size: 30px;
+  }
+  
+  .last {
+    background-color: #ffdddd;
+    text-align: center;
+    padding: 40px;
+    line-height: 3em;
+  }
+  
+  .rs {
+      text-align: center;
+      background-color: #f44336;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      padding: 20px 65px;
+      font-size: 20px;
+    }
+  
+  .foot {
+    text-align: center;
+    background-color: #000;
+    padding: 30px 0;
+    color: #fff;
+    font-size: 18px;
+  }
+  
+  .foot a {
+    color: #fff;
+  }
+  
