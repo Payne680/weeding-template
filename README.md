@@ -1,18 +1,26 @@
 # weeding-template
-## AUTHOR
--THis project was done by PENN JUNIOR
-### OPENNING THE PROGRAM
--If you want to get access to the deployed version go settings/pages then you will find the URL. and i will recommend that you should use a stable broswer like Google Chrome
-#### BUILT WITH
--The code editor used was VS Code
-LANGUAGES
- -HTML
- -CSS
-##### PREREQUISITES
- -You should have a stable broswer install (Google Chrome)
-###### CLONE PROJECT
-  -To get a local copy of this work on your computer, you will need to clone it i.e cloning the repository. This done   by using the linux , mac terminal or git bash  on windows.
-  Here is a link to clone git@github.com:Payne680/weeding-template.git
+## APP
+![home](./asset/images/Screenshot%20(1).png)
+![middle](./asset/images/Screenshot%20(3).png)
+![footer](./asset/images/Screenshot%20(2).png)
+### BUILT WITH
+ .HTML
+ .CSS
+#### PREREQUISITES
+ knowledge about:
+ .HTML
+ .CSS
+ Google chrome
+##### CLONE PROJECT
+  .To get a local copy of this work on your computer, you will need to clone it i.e cloning the repository. This done   by using the linux , mac terminal or git bash  on windows.
+  .Here is a link to clone git@github.com:Payne680/weeding-template.git
+  .Change to the project directory by entering:cd wedding-template in the terminal
+##### STEPS
+  .$ git clone git@github.com:Payne680/weeding-template.git
+###### StART APP
+. run by opening the index.html in the browser
+###### AUTHOR
+**PENN JUNIOR**
 ###### CONTRIBUTION
-Contribution, issues and feature request are welcome.
+.Contribution, issues and feature request are welcome.
 Feel free to check the (issue page).
