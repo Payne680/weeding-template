@@ -6,7 +6,7 @@
 ## LIVE SITE
 [link](https://payne680.github.io/weeding-template/)
 ## ABOUT
- .This site was built using html and css following git flow and upon the correction of linter errors i got my final site deployed
+ .This site was built using HTML and CSS following git flow and upon the correction of linter errors i got my final site deployed
 ### BUILT WITH
  .HTML
  .CSS
